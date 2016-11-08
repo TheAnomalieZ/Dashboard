@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/TAZ/graph_page.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/blueimp.github.io" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/webapp/resources/bs3" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap-reset.css" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap-switch.css" charset="windows-1252" />
