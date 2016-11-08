@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="taz">
+    <output-path>$PROJECT_DIR$/out/artifacts/taz</output-path>
+    <root id="archive" name="taz.war" />
+  </artifact>
+</component>

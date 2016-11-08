@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Taz:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="taz-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Taz:war exploded" />
+    </root>
+  </artifact>
+</component>

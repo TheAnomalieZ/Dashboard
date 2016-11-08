@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/TAZ/graph_page.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/bs3" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap-reset.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap-switch.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap.min.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/css/bucket-ico-fonts.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/css/clndr.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/css/invoice-print.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/css/jquery.stepsc4ca.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/css/style-responsive.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/css/style.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/css/style3860.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/css/stylec4ca.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/css/table-responsive.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/fonts/css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/fonts/fonts" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/404.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/500.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/Angry_Taz.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/acc-expand.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/avatar-mini-2.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/avatar-mini-3.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/avatar-mini-4.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/avatar-mini.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/avatar1.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/avatar1_small.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/bucket-logo.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/chat-avatar2.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/chat-user-thumb-f.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/chat-user-thumb.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/crazy-price.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/customSelect-arrow.gif" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/details_close.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/details_open.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/favicon.html" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/flags" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/gallery" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/lock-screen.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/lock_thumb.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/logo.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/nav-expand.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/product_img.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/search-icon.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/sm-img-1.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/sm-img-2.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/sm-img-3.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/tazLogo.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/top-arrow.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/twitter_corner_black.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/twitter_corner_blue.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/images/weather_image.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/js/TAZ" charset="windows-1252" />
+  </component>
+</project>
